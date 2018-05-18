@@ -1,0 +1,44 @@
+
+.welcome-message {
+    clear: left;
+    float: left;
+    background-color: green;
+}
+
+html {
+    margin:0;
+}
+
+body {
+    margin: 0
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background: red;
+}
+
+.a {
+    margin-top: 40px;
+    margin-left: 30px;
+    padding:50px
+}
+
+.b {
+    position: relative;
+    display: inline-block;
+    top: 40px;
+    left: 20px;
+}
+
