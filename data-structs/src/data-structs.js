@@ -1,5 +1,4 @@
-
-var map = new Map()
+const map = new Map()
 map.set(1, 'a')
 map.set(2, 'b')
 
