@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+}
+
+.grandparent {
+    position: relative;
+
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    top: 50px;
+    left: 150px;
+    flex-direction: column;
+    height: 300px;
+    background: dodgerblue;
+}
+
+.child {
+    background: red;
+}
