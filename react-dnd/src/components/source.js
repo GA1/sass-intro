@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { DragSource } from "react-dnd";
-import "./source.css";
+import "../source.css";
 
 class Source extends Component {
   render() {

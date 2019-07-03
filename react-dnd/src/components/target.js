@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { DropTarget } from "react-dnd";
-import "./target.css";
+import "../target.css";
 
 class Target extends Component {
   render() {
